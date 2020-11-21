@@ -1,5 +1,5 @@
 # auto-memoize
-Python decorator for auto-memozing pure functions
+Python decorator for auto-memoizing pure functions
 
 Memoization is an old computer science trick, that stores previous computation
 results to prevent the need to recalculate them. Often a memoizing program
